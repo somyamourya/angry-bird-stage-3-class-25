@@ -1,2 +1,2 @@
-# angry-bird-stage-3-class-25
-animation to the angry bird box model
+# p5.play-boilerplate
+Boiler plate for p5.play
